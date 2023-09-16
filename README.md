@@ -14,8 +14,8 @@
 
   <!-- Right Side -->
   <div style="flex: 1; text-align: center;">
-    <!-- Quote Generator or any text -->
-    <p id="quote"></p>
+    <!-- Placeholder or any text -->
+    <p>Your Favorite Quote Here</p>
     <!-- GitHub Streak -->
     <img src="https://streak-stats.demolab.com/?user=yourkin" alt="GitHub Streak" style="width: 100%;" />
     <!-- GitHub Trophies -->
@@ -23,8 +23,3 @@
   </div>
   
 </div>
-
-<script>
-  // Simple quote generator, you can replace it with an API call for more dynamic content
-  document.getElementById("quote").innerHTML = "Code like there's no tomorrow!";
-</script>
