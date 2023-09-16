@@ -14,8 +14,7 @@
 
   <!-- Right Side -->
   <div style="flex: 1; text-align: center;">
-    <!-- Placeholder or any text -->
-    <p>Your Favorite Quote Here</p>
+    
     <!-- GitHub Streak -->
     <img src="https://streak-stats.demolab.com/?user=yourkin" alt="GitHub Streak" style="width: 100%;" />
     <!-- GitHub Trophies -->
