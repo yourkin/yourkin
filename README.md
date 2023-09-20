@@ -5,6 +5,8 @@
   <br><br>
 
   <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yourkin&theme=dark)](https://git.io/streak-stats)
+
   <img src="https://streak-stats.demolab.com/?user=yourkin" alt="GitHub Streak" style="width: 100%;" />
   <br><br>
 
