@@ -6,7 +6,7 @@
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=yourkin" alt="GitHub Streak" style="width: 100%;" />
-  <br><br>
+  <br>
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=yourkin" alt="GitHub Trophies" style="width: 100%;" />
