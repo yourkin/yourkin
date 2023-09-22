@@ -9,7 +9,9 @@
   <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=yourkin1&theme=dark" alt="GitHub Streak" style="width: 100%;" />
+  <div style="width: 100%;">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  </div>
   <br><br>
 
 </div>
