@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yourkin" alt="GitHub Trophies" style="width: 80%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourkin" alt="GitHub Trophies" style="width: 120%;" />
   <br><br>
 
   <!-- GitHub Streak -->
