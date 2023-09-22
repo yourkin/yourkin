@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=yourkin" alt="GitHub Streak" style="width: 100%;" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <br>
 
   <!-- GitHub Trophies -->
