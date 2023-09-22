@@ -9,6 +9,6 @@
   <br><br>
 
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=yourkin&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yourkin&theme=neon-dark&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
