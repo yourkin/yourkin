@@ -8,6 +8,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yourkin" alt="GitHub Trophies" style="width: 100%;" />
   <br><br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=yourkin1&theme=dark" alt="GitHub Streak" style="width: 100%;" />
+  <br><br>
 
 </div>
