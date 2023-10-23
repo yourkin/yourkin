@@ -9,7 +9,7 @@
   <br>
   
   <!-- Coding Activity -->
-  <img hight=150 src="https://wakatime.com/share/@d757f81c-c761-4d1e-8e1e-4ac2a00ff747/8e5a5aec-c991-4cf6-86f2-264c95b38730.png" />
+  <img height="150" src="https://wakatime.com/share/@d757f81c-c761-4d1e-8e1e-4ac2a00ff747/8e5a5aec-c991-4cf6-86f2-264c95b38730.png" />
   <br>
 
   <!-- GitHub Streak -->
